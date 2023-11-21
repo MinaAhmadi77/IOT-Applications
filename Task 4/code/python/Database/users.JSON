@@ -1,0 +1,56 @@
+[
+    {
+        "user_id": "1",
+        "card": "49 1D D7 A2",
+        "room_number": "1",
+        "password": "1234"
+    },
+    {
+        "user_id": "2",
+        "card": "49 1D D7 A2",
+        "room_number": "2",
+        "password": "1234"
+    },
+    {
+        "user_id": "3",
+        "card": "6B 80 5E 10",
+        "room_number": "3",
+        "password": "1234"
+    },
+    {
+        "user_id": "4",
+        "card": "49 1D D7 A2",
+        "room_number": "4",
+        "password": "8965"
+    },
+    {
+        "user_id": "5",
+        "card": "49 1D D7 A2",
+        "room_number": "5",
+        "password": "1234"
+    },
+    {
+        "user_id": "6",
+        "card": "6B 80 5E 10",
+        "room_number": "10",
+        "password": "1234"
+    },
+    {
+        "user_id": "7",
+        "card": "6B 80 5E 10",
+        "room_number": "10",
+        "password": "1234"
+    },
+    {
+        "user_id": "8",
+        "card": "6B 80 5E 10",
+        "room_number": "15",
+        "password": "1234"
+    },
+    {
+        "user_id": "9",
+        "card": "6B 80 5E 10",
+        "room_number": "16",
+        "password": "1234"
+    }
+]
